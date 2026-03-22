@@ -2217,61 +2217,6 @@
         <Lottery Name="TicketMysteryBox_Junior" />
       </ActiveLotteries>
       <Billing>
-        <Item Name="Casket_Gems_gp" RealPrice="" RealPriceConst="0" RealPriceCurrency="" />
-        <Item Name="Casket_Gems_Zone7_gp" RealPrice="" RealPriceConst="0" RealPriceCurrency="" />
-        <Item Name="Pile_Gems" RealPrice="₺7,99" RealPriceConst="7.99" RealPriceCurrency="TRY" />
-        <Item Name="Casket_Gems" RealPrice="₺29,99" RealPriceConst="29.99" RealPriceCurrency="TRY" />
-        <Item Name="Casket_Gems_Zone7" RealPrice="₺29,99" RealPriceConst="29.99" RealPriceCurrency="TRY" />
-        <Item Name="Bag_Gems" RealPrice="₺49,99" RealPriceConst="49.99" RealPriceCurrency="TRY" />
-        <Item Name="Bag_Gems_Zone7" RealPrice="₺49,99" RealPriceConst="49.99" RealPriceCurrency="TRY" />
-        <Item Name="Chest_Gems" RealPrice="₺139,99" RealPriceConst="139.99" RealPriceCurrency="TRY" />
-        <Item Name="Chest_Gems_Zone7" RealPrice="₺139,99" RealPriceConst="139.99" RealPriceCurrency="TRY" />
-        <Item Name="Pile_Gems_s" RealPrice="₺7,99" RealPriceConst="7.99" RealPriceCurrency="TRY" />
-        <Item Name="Casket_Gems_s" RealPrice="₺29,99" RealPriceConst="29.99" RealPriceCurrency="TRY" />
-        <Item Name="Bag_Gems_s" RealPrice="₺49,99" RealPriceConst="49.99" RealPriceCurrency="TRY" />
-        <Item Name="Chest_Gems_s" RealPrice="₺139,99" RealPriceConst="139.99" RealPriceCurrency="TRY" />
-        <Item Name="Pile_Coins" RealPrice="₺2,59" RealPriceConst="2.59" RealPriceCurrency="TRY" />
-        <Item Name="Pile_Coins_2" RealPrice="₺2,59" RealPriceConst="2.59" RealPriceCurrency="TRY" />
-        <Item Name="Pile_Coins_3" RealPrice="₺2,59" RealPriceConst="2.59" RealPriceCurrency="TRY" />
-        <Item Name="Pile_Coins_4" RealPrice="₺2,59" RealPriceConst="2.59" RealPriceCurrency="TRY" />
-        <Item Name="Pile_Coins_5" RealPrice="₺2,59" RealPriceConst="2.59" RealPriceCurrency="TRY" />
-        <Item Name="Pile_Coins_6" RealPrice="₺2,59" RealPriceConst="2.59" RealPriceCurrency="TRY" />
-        <Item Name="Pile_Coins_Platinum" RealPrice="₺2,59" RealPriceConst="2.59" RealPriceCurrency="TRY" />
-        <Item Name="Pile_Coins_Platinum_2" RealPrice="₺2,59" RealPriceConst="2.59" RealPriceCurrency="TRY" />
-        <Item Name="Pile_Coins_Platinum_3" RealPrice="₺2,59" RealPriceConst="2.59" RealPriceCurrency="TRY" />
-        <Item Name="Pile_Coins_Platinum_4" RealPrice="₺2,59" RealPriceConst="2.59" RealPriceCurrency="TRY" />
-        <Item Name="Pile_Coins_Platinum_5" RealPrice="₺2,59" RealPriceConst="2.59" RealPriceCurrency="TRY" />
-        <Item Name="Pile_Coins_Platinum_6" RealPrice="₺2,59" RealPriceConst="2.59" RealPriceCurrency="TRY" />
-        <Item Name="Pile_Coins_Zone7" RealPrice="₺2,59" RealPriceConst="2.59" RealPriceCurrency="TRY" />
-        <Item Name="Bag_Coins" RealPrice="₺12,99" RealPriceConst="12.99" RealPriceCurrency="TRY" />
-        <Item Name="Bag_Coins_2" RealPrice="₺12,99" RealPriceConst="12.99" RealPriceCurrency="TRY" />
-        <Item Name="Bag_Coins_3" RealPrice="₺12,99" RealPriceConst="12.99" RealPriceCurrency="TRY" />
-        <Item Name="Bag_Coins_4" RealPrice="₺12,99" RealPriceConst="12.99" RealPriceCurrency="TRY" />
-        <Item Name="Bag_Coins_5" RealPrice="₺12,99" RealPriceConst="12.99" RealPriceCurrency="TRY" />
-        <Item Name="Bag_Coins_6" RealPrice="₺12,99" RealPriceConst="12.99" RealPriceCurrency="TRY" />
-        <Item Name="Bag_Coins_Platinum" RealPrice="₺12,99" RealPriceConst="12.99" RealPriceCurrency="TRY" />
-        <Item Name="Bag_Coins_Platinum_2" RealPrice="₺12,99" RealPriceConst="12.99" RealPriceCurrency="TRY" />
-        <Item Name="Bag_Coins_Platinum_3" RealPrice="₺12,99" RealPriceConst="12.99" RealPriceCurrency="TRY" />
-        <Item Name="Bag_Coins_Platinum_4" RealPrice="₺12,99" RealPriceConst="12.99" RealPriceCurrency="TRY" />
-        <Item Name="Bag_Coins_Platinum_5" RealPrice="₺12,99" RealPriceConst="12.99" RealPriceCurrency="TRY" />
-        <Item Name="Bag_Coins_Platinum_6" RealPrice="₺12,99" RealPriceConst="12.99" RealPriceCurrency="TRY" />
-        <Item Name="Bag_Coins_Zone7" RealPrice="₺12,99" RealPriceConst="12.99" RealPriceCurrency="TRY" />
-        <Item Name="Chest_Coins" RealPrice="₺49,99" RealPriceConst="49.99" RealPriceCurrency="TRY" />
-        <Item Name="Chest_Coins_2" RealPrice="₺49,99" RealPriceConst="49.99" RealPriceCurrency="TRY" />
-        <Item Name="Chest_Coins_3" RealPrice="₺49,99" RealPriceConst="49.99" RealPriceCurrency="TRY" />
-        <Item Name="Chest_Coins_4" RealPrice="₺49,99" RealPriceConst="49.99" RealPriceCurrency="TRY" />
-        <Item Name="Chest_Coins_5" RealPrice="₺49,99" RealPriceConst="49.99" RealPriceCurrency="TRY" />
-        <Item Name="Chest_Coins_6" RealPrice="₺49,99" RealPriceConst="49.99" RealPriceCurrency="TRY" />
-        <Item Name="Chest_Coins_Zone7" RealPrice="₺49,99" RealPriceConst="49.99" RealPriceCurrency="TRY" />
-        <Item Name="Pack_Starter" RealPrice="₺2,59" RealPriceConst="2.59" RealPriceCurrency="TRY" />
-        <Item Name="Premium_Pack_Zone1" RealPrice="₺29,99" RealPriceConst="29.99" RealPriceCurrency="TRY" />
-        <Item Name="Premium_Pack_Zone2" RealPrice="₺29,99" RealPriceConst="29.99" RealPriceCurrency="TRY" />
-        <Item Name="Premium_Pack_Zone3" RealPrice="₺29,99" RealPriceConst="29.99" RealPriceCurrency="TRY" />
-        <Item Name="Premium_Pack_Zone4" RealPrice="₺33,99" RealPriceConst="33.99" RealPriceCurrency="TRY" />
-        <Item Name="Premium_Pack_Zone5" RealPrice="₺33,99" RealPriceConst="33.99" RealPriceCurrency="TRY" />
-        <Item Name="Premium_Pack_Zone6" RealPrice="₺33,99" RealPriceConst="33.99" RealPriceCurrency="TRY" />
-        <Item Name="EventPack" RealPrice="₺7,99" RealPriceConst="7.99" RealPriceCurrency="TRY" />
-        <Item Name="Unlimited_Energy" RealPrice="₺49,99" RealPriceConst="49.99" RealPriceCurrency="TRY" />
       </Billing>
       <CounterItems>
         <Items>
