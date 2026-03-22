@@ -1721,58 +1721,58 @@
       </Shop>
       <Perks>
         <Perk Level="2" Name="PERK_DOUBLE_SWEEP" />
-        <Perk Level="3" Name="PERK_DESPERATE" UpgradeLevel="3" />
+        <Perk Level="3" Name="PERK_DESPERATE" UpgradeLevel="4" />
         <Perk Level="4" Name="PERK_DOUBLE_JUMP_KICK" />
-        <Perk Level="5" Name="PERK_ROCK" UpgradeLevel="3" />
-        <Perk Level="7" Name="PERK_FURIOUS" UpgradeLevel="4" />
+        <Perk Level="5" Name="PERK_AVENGER" UpgradeLevel="2" />
+        <Perk Level="7" Name="PERK_FURIOUS" UpgradeLevel="8" />
         <Perk Level="8" Name="PERK_ELBOW_STRIKE" />
         <Perk Level="11" Name="PERK_TWO_FOOT_JUMP_KICK" />
-        <Perk Level="13" Name="PERK_PAIN_RAGE" UpgradeLevel="5" />
+        <Perk Level="13" Name="PERK_PAIN_RAGE" UpgradeLevel="6" />
         <Perk Level="14" Name="PERK_BACK_FLIP_KICK" />
         <Perk Level="17" Name="PERK_SUPLEX" />
-        <Perk Level="20" Name="PERK_FULL_POWER" UpgradeLevel="5" />
+        <Perk Level="20" Name="PERK_FULL_POWER" UpgradeLevel="1" />
         <Perk Level="26" Name="PERK_BLOCK_BREAKER" UpgradeLevel="9" />
-        <Perk Level="32" Name="PERK_MARTIAL_SPIRIT" UpgradeLevel="5" />
-        <Perk Level="38" Name="PERK_ENLIGHTENMENT" UpgradeLevel="7" />
-        <Perk Level="45" Name="PERK_DISORIENTATION" UpgradeLevel="4" />
+        <Perk Level="32" Name="PERK_MARTIAL_SPIRIT" UpgradeLevel="4" />
+        <Perk Level="38" Name="PERK_ENLIGHTENMENT" UpgradeLevel="6" />
+        <Perk Level="45" Name="PERK_RICOCHET" UpgradeLevel="5" />
       </Perks>
       <PerkHistory>
         <Level Value="2" Perk="PERK_DOUBLE_SWEEP" />
         <Level Value="3" Perk="PERK_DESPERATE" />
         <Level Value="4" Perk="PERK_DOUBLE_JUMP_KICK" />
-        <Level Value="5" Perk="PERK_ROCK" />
+        <Level Value="5" Perk="PERK_AVENGER" />
         <Level Value="6" Perk="PERK_DESPERATE" />
         <Level Value="7" Perk="PERK_FURIOUS" />
         <Level Value="8" Perk="PERK_ELBOW_STRIKE" />
         <Level Value="9" Perk="PERK_FURIOUS" />
-        <Level Value="10" Perk="PERK_ROCK" />
+        <Level Value="10" Perk="PERK_FURIOUS" />
         <Level Value="11" Perk="PERK_TWO_FOOT_JUMP_KICK" />
         <Level Value="12" Perk="PERK_DESPERATE" />
         <Level Value="13" Perk="PERK_PAIN_RAGE" />
         <Level Value="14" Perk="PERK_BACK_FLIP_KICK" />
         <Level Value="15" Perk="PERK_PAIN_RAGE" />
-        <Level Value="16" Perk="PERK_ROCK" />
+        <Level Value="16" Perk="PERK_FURIOUS" />
         <Level Value="17" Perk="PERK_SUPLEX" />
         <Level Value="18" Perk="PERK_PAIN_RAGE" />
         <Level Value="19" Perk="PERK_FURIOUS" />
         <Level Value="20" Perk="PERK_FULL_POWER" />
-        <Level Value="21" Perk="PERK_FULL_POWER" />
+        <Level Value="21" Perk="PERK_DESPERATE" />
         <Level Value="22" Perk="PERK_FURIOUS" />
-        <Level Value="23" Perk="PERK_FULL_POWER" />
+        <Level Value="23" Perk="PERK_AVENGER" />
         <Level Value="24" Perk="PERK_PAIN_RAGE" />
-        <Level Value="25" Perk="PERK_FULL_POWER" />
+        <Level Value="25" Perk="PERK_FURIOUS" />
         <Level Value="26" Perk="PERK_BLOCK_BREAKER" />
         <Level Value="27" Perk="PERK_BLOCK_BREAKER" />
-        <Level Value="28" Perk="PERK_PAIN_RAGE" />
+        <Level Value="28" Perk="PERK_FURIOUS" />
         <Level Value="29" Perk="PERK_BLOCK_BREAKER" />
-        <Level Value="30" Perk="PERK_FULL_POWER" />
+        <Level Value="30" Perk="PERK_PAIN_RAGE" />
         <Level Value="31" Perk="PERK_BLOCK_BREAKER" />
         <Level Value="32" Perk="PERK_MARTIAL_SPIRIT" />
         <Level Value="33" Perk="PERK_MARTIAL_SPIRIT" />
         <Level Value="34" Perk="PERK_BLOCK_BREAKER" />
         <Level Value="35" Perk="PERK_MARTIAL_SPIRIT" />
         <Level Value="36" Perk="PERK_BLOCK_BREAKER" />
-        <Level Value="37" Perk="PERK_MARTIAL_SPIRIT" />
+        <Level Value="37" Perk="PERK_PAIN_RAGE" />
         <Level Value="38" Perk="PERK_ENLIGHTENMENT" />
         <Level Value="39" Perk="PERK_ENLIGHTENMENT" />
         <Level Value="40" Perk="PERK_BLOCK_BREAKER" />
@@ -1780,13 +1780,13 @@
         <Level Value="42" Perk="PERK_MARTIAL_SPIRIT" />
         <Level Value="43" Perk="PERK_ENLIGHTENMENT" />
         <Level Value="44" Perk="PERK_BLOCK_BREAKER" />
-        <Level Value="45" Perk="PERK_DISORIENTATION" />
-        <Level Value="46" Perk="PERK_ENLIGHTENMENT" />
-        <Level Value="47" Perk="PERK_DISORIENTATION" />
+        <Level Value="45" Perk="PERK_RICOCHET" />
+        <Level Value="46" Perk="PERK_RICOCHET" />
+        <Level Value="47" Perk="PERK_RICOCHET" />
         <Level Value="48" Perk="PERK_ENLIGHTENMENT" />
-        <Level Value="49" Perk="PERK_DISORIENTATION" />
+        <Level Value="49" Perk="PERK_RICOCHET" />
         <Level Value="50" Perk="PERK_ENLIGHTENMENT" />
-        <Level Value="51" Perk="PERK_DISORIENTATION" />
+        <Level Value="51" Perk="PERK_RICOCHET" />
         <Level Value="52" Perk="PERK_ENLIGHTENMENT" />
       </PerkHistory>
       <OpenTricks />
