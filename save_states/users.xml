@@ -5,15 +5,17 @@
       <Sound Value="0" Mute="1" />
       <Music Value="0" Mute="1" />
     </Sounds>
-    <WatchedVideos />
+    <WatchedVideos>
+      <Video Name="/storage/emulated/0/Android/data/com.nekki.shadowfight/files/gamedata/bundles/shadow_gate.mp4" WatchedCount="1" />
+    </WatchedVideos>
   </CurrentUser>
   <Warriors>
-    <Warrior ID="1" FirstName="NAME_SHADOW" Avatar="avatar_hero" Voice="Male" Money="100000026459" Bonus="9999999974" Strength="43343" Stamina="33443" Level="52" Experience="20534436" Power="5" PowerSyncTime="-1" Difficulty="50" LastLotteryEnterTime="0" LastLotteryPlayTime="0" LotteryDaysMax="6" LotteryDays="0" RateTime="0" Skeleton="Skeleton" Armor="ARMOR_AE21_WARRIOR" Helm="HELM_CHNY20_TRADITIONAL" Weapon="WEAPON_C2_Z2_MONK_KATAR" Ranged="NoRanged" Magic="MAGIC_CHNY22_WATERBALL" ShowUpgrades="1" ArenaRating="0" ArenaRank="0" Tutorial="END" Tactic="Player" CurrentZone="ZONE_2" SaveSlot="0" InstallID="72244596" ServerUserID="984211804" AskedForDumps="1" Language="eng" RaidTutorialStep="TutorialComplete" RaidTutorialGemsTaken="" ForgeTutorialMaterialsGiven="" ClanTutorial="1" RaidTop100Focus="CurrentTop" RaidRemindRandomRule="1" RemindClanRaidLeave="1" RemindClanRaidKick="1" RaidRemindNewKeys="0" RaidToggleIsVisible="1" RemindResetClanRaiting="1" FightIDS="ZONE_2|Tournament|7" MapFocus="ZONE_3|Challenge" PaidBonus="60" RemindNewShards="0" SocialLoginFailedCount="0" PaymentActionsResendRequestCompleted="1" ShowBuyConsumablesConfirmation="1" UnconfirmedLedgerIDs="" WatchedVideo="" RaidMapFocus="ZONE_RAID|BOSS_1" TotalPaymentSum="2223.59" PaymentCount="1" PaidMoney="10322300" IndexSlider="0" ShowForge="1" EclipseMode="Off" MapMaskColor="#FFFFFFFF">
+    <Warrior ID="1" FirstName="NAME_SHADOW" Avatar="avatar_hero" Voice="Male" Money="100071960000" Bonus="9999999974" Strength="43343" Stamina="33443" Level="52" Experience="88000000" Power="5" PowerSyncTime="-1" Difficulty="50" LastLotteryEnterTime="0" LastLotteryPlayTime="0" LotteryDaysMax="6" LotteryDays="0" RateTime="0" Skeleton="Skeleton" Armor="ARMOR_BP_S5_TIME_SHIFTER" Helm="HELM_BP_S5_TIME_SHIFTER" Weapon="WEAPON_BP_S5_TIME_SHIFTER" Ranged="RANGED_BP_S5_TIME_SHIFTER" Magic="MAGIC_BP_S5_TIME_SHIFTER" ShowUpgrades="1" ArenaRating="0" ArenaRank="0" Tutorial="END" Tactic="Player" CurrentZone="ZONE_IM" SaveSlot="0" InstallID="72244596" ServerUserID="984211804" AskedForDumps="1" Language="eng" RaidTutorialStep="TutorialComplete" RaidTutorialGemsTaken="" ForgeTutorialMaterialsGiven="" ClanTutorial="1" RaidTop100Focus="CurrentTop" RaidRemindRandomRule="1" RemindClanRaidLeave="1" RemindClanRaidKick="1" RaidRemindNewKeys="0" RaidToggleIsVisible="1" RemindResetClanRaiting="1" FightIDS="ZONE_1|Tournament_INTERMISSION|1" MapFocus="ZONE_1|Tournament_INTERMISSION" PaidBonus="60" RemindNewShards="0" SocialLoginFailedCount="0" PaymentActionsResendRequestCompleted="1" ShowBuyConsumablesConfirmation="1" UnconfirmedLedgerIDs="" WatchedVideo="" RaidMapFocus="ZONE_RAID|RAIDBOSS_LAMB" TotalPaymentSum="2223.59" PaymentCount="1" PaidMoney="10322300" IndexSlider="0" ShowForge="1" EclipseMode="On" MapMaskColor="#83624BFF" PeriodicPlayTime="0" DenominationDigits="4" CoinIcon="MiscSprites.platinum">
       <Items>
         <Item Name="Body" Equipped="0" Count="1" UpgradeLevel="0" DeliveryTime="0" DeliveryUpgradeLevel="-1" AcquireType="Item" />
         <Item Name="Head" Equipped="0" Count="1" UpgradeLevel="0" DeliveryTime="0" DeliveryUpgradeLevel="-1" AcquireType="Item" />
         <Item Name="Fists" Equipped="0" Count="1" UpgradeLevel="0" DeliveryTime="0" DeliveryUpgradeLevel="-1" AcquireType="Item" />
-        <Item Name="NoRanged" Equipped="1" Count="1" UpgradeLevel="0" DeliveryTime="0" DeliveryUpgradeLevel="-1" AcquireType="Item" />
+        <Item Name="NoRanged" Equipped="0" Count="1" UpgradeLevel="0" DeliveryTime="0" DeliveryUpgradeLevel="-1" AcquireType="Item" />
         <Item Name="NoMagic" Equipped="0" Count="1" UpgradeLevel="0" DeliveryTime="0" DeliveryUpgradeLevel="-1" AcquireType="Item" />
         <Item Name="Unlimited_Energy" Equipped="1" Count="1" UpgradeLevel="0" DeliveryTime="0" DeliveryUpgradeLevel="-1" AcquireType="Item" />
         <Item Name="WEAPON_KNIVES" Equipped="0" Count="1" UpgradeLevel="100" DeliveryTime="-1" DeliveryUpgradeLevel="-1" AcquireType="Item" />
@@ -39,7 +41,7 @@
             <Perk Name="PERK_GUARDIAN_SET_PROTECTION" />
           </Enchantments>
         </Item>
-        <Item Name="WEAPON_C2_Z2_MONK_KATAR" Equipped="1" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+        <Item Name="WEAPON_C2_Z2_MONK_KATAR" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
           <Enchantments>
             <Perk Name="PERK_ITEM_SPECIAL_WEAKNESS_WEAPON">
               <Set Aspect="2000" />
@@ -249,7 +251,7 @@
             <Perk Name="PERK_MONK_SET_WHIRL" />
           </Enchantments>
         </Item>
-        <Item Name="MAGIC_CHNY22_WATERBALL" Count="1" UpgradeLevel="5240" Equipped="1" DeliveryTime="0" DeliveryUpgradeLevel="-1" AcquireType="Upgrade">
+        <Item Name="MAGIC_CHNY22_WATERBALL" Count="1" UpgradeLevel="5240" Equipped="0" DeliveryTime="0" DeliveryUpgradeLevel="-1" AcquireType="Upgrade">
           <Enchantments>
             <Perk Name="PERK_MONK_SET_WHIRL" />
           </Enchantments>
@@ -274,7 +276,7 @@
             <Perk Name="PERK_WARLOCK_SET_CURSE" />
           </Enchantments>
         </Item>
-        <Item Name="HELM_CHNY20_TRADITIONAL" Equipped="1" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5230" AcquireType="Upgrade">
+        <Item Name="HELM_CHNY20_TRADITIONAL" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5230" AcquireType="Upgrade">
           <Enchantments>
             <Perk Name="PERK_ITEM_SPECIAL_FRENZY_DEFENSE_HELM">
               <Set Aspect="1867" />
@@ -388,7 +390,7 @@
           <Enchantments>
           </Enchantments>
         </Item>
-        <Item Name="ARMOR_AE21_WARRIOR" Equipped="1" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+        <Item Name="ARMOR_AE21_WARRIOR" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
           <Enchantments>
           </Enchantments>
         </Item>
@@ -495,7 +497,7 @@
           <Enchantments>
           </Enchantments>
         </Item>
-        <Item Name="drop_name_blueseal" Equipped="0" Count="2" UpgradeLevel="0" DeliveryTime="0" DeliveryUpgradeLevel="0" AcquireType="Upgrade" />
+        <Item Name="drop_name_blueseal" Equipped="0" Count="0" UpgradeLevel="0" DeliveryTime="0" DeliveryUpgradeLevel="0" AcquireType="Upgrade" />
         <Item Name="ARMOR_BP_S5_TIME_SHIFTER" Equipped="1" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="5200" AcquireType="Upgrade">
           <Enchantments>
             <Perk Name="PERK_TIME_SHIFT_SET_TIME_SHIFTER" />
@@ -776,41 +778,54 @@
           <Enchantments>
           </Enchantments>
         </Item>
-        <Item Name="drop_name_greenseal" Equipped="0" Count="1" UpgradeLevel="0" DeliveryTime="0" DeliveryUpgradeLevel="-1" AcquireType="Item" />
-        <Item Name="drop_name_redseal" Equipped="0" Count="1" UpgradeLevel="0" DeliveryTime="0" DeliveryUpgradeLevel="-1" AcquireType="Item" />
-        <Item Name="drop_name_purpleseal" Equipped="0" Count="1" UpgradeLevel="0" DeliveryTime="0" DeliveryUpgradeLevel="-1" AcquireType="Item" />
+        <Item Name="drop_name_redseal" Equipped="0" Count="0" UpgradeLevel="0" DeliveryTime="0" DeliveryUpgradeLevel="-1" AcquireType="Item" />
+        <Item Name="drop_name_greenseal" Equipped="0" Count="0" UpgradeLevel="0" DeliveryTime="0" DeliveryUpgradeLevel="-1" AcquireType="Item" />
+        <Item Name="drop_name_purpleseal" Equipped="0" Count="0" UpgradeLevel="0" DeliveryTime="0" DeliveryUpgradeLevel="-1" AcquireType="Item" />
+        <Item Name="drop_name_orangeseal" Equipped="0" Count="0" UpgradeLevel="0" DeliveryTime="0" DeliveryUpgradeLevel="-1" AcquireType="Item" />
+        <Item Name="drop_name_jadeseal" Equipped="0" Count="0" UpgradeLevel="0" DeliveryTime="0" DeliveryUpgradeLevel="-1" AcquireType="Item" />
       </Items>
       <Battles>
-        <Battle Name="ZONE_1|BOSS_LYNX|" Locked="0" />
-        <Battle Name="ZONE_6|BOSS_SAMURAI_LOCKED|" Locked="0" />
-        <Battle Name="ZONE_1|Tournament|" Locked="0" Hidden="0" ReplayCount="0" />
-        <Battle Name="ZONE_1|Duel|" Locked="0" Hidden="0" ReplayCount="0" />
-        <Battle Name="ZONE_1|Survival|" Locked="0" Hidden="0" ReplayCount="0" />
         <Battle Name="ZONE_RAID|ARCHITECT_1122|" Locked="0" Hidden="0" ReplayCount="0" />
         <Battle Name="ZONE_1|Tournament_ECLIPSEMODE|" Locked="0" Hidden="1" ReplayCount="0" RandomRuleSeed="1536908588" RandomGroupSeed="1536908711" />
         <Battle Name="ZONE_1|BOSS_LYNX_ECLIPSEMODE|" Locked="0" Hidden="1" ReplayCount="0" />
-        <Battle Name="ZONE_2|BOSS_HERMIT|" Locked="0" Hidden="0" ReplayCount="0" />
-        <Battle Name="ZONE_2|Tournament|" Locked="0" Hidden="0" ReplayCount="0" />
-        <Battle Name="ZONE_2|Duel|" Locked="1" Hidden="0" ReplayCount="0" />
-        <Battle Name="ZONE_2|Survival|" Locked="0" Hidden="0" ReplayCount="0" />
-        <Battle Name="ZONE_2|Challenge|" Locked="0" Hidden="0" ReplayCount="0" />
-        <Battle Name="ZONE_3|BOSS_BUTCHER|" Locked="0" Hidden="0" ReplayCount="0" />
-        <Battle Name="ZONE_3|Tournament|" Locked="0" Hidden="0" ReplayCount="0" />
-        <Battle Name="ZONE_3|Duel|" Locked="1" Hidden="0" ReplayCount="0" />
-        <Battle Name="ZONE_3|Survival|" Locked="0" Hidden="0" ReplayCount="0" />
-        <Battle Name="ZONE_3|Challenge|" Locked="1" Hidden="0" ReplayCount="0" />
-        <Battle Name="ZONE_4|BOSS_WASP|" Locked="0" Hidden="0" ReplayCount="0" />
-        <Battle Name="ZONE_4|Tournament|" Locked="0" Hidden="0" ReplayCount="0" />
-        <Battle Name="ZONE_4|Duel|" Locked="1" Hidden="0" ReplayCount="0" />
-        <Battle Name="ZONE_4|Survival|" Locked="0" Hidden="0" ReplayCount="0" />
-        <Battle Name="ZONE_4|Challenge|" Locked="1" Hidden="0" ReplayCount="0" />
-        <Battle Name="ZONE_5|BOSS_HUNTRESS|" Locked="0" Hidden="0" ReplayCount="0" />
-        <Battle Name="ZONE_5|Tournament|" Locked="0" Hidden="0" ReplayCount="0" />
-        <Battle Name="ZONE_5|Duel|" Locked="1" Hidden="0" ReplayCount="0" />
-        <Battle Name="ZONE_5|Survival|" Locked="0" Hidden="0" ReplayCount="0" />
-        <Battle Name="ZONE_5|Challenge|" Locked="1" Hidden="0" ReplayCount="0" />
+        <Battle Name="ZONE_2|Tournament_ECLIPSEMODE|" Locked="0" Hidden="1" ReplayCount="0" RandomRuleSeed="1536908588" RandomGroupSeed="1536908711" />
+        <Battle Name="ZONE_2|Challenge_ECLIPSEMODE|" Locked="0" Hidden="1" ReplayCount="0" RandomRuleSeed="3899399564" RandomGroupSeed="3899399687" />
+        <Battle Name="ZONE_2|BOSS_HERMIT_ECLIPSEMODE|" Locked="0" Hidden="1" ReplayCount="0" />
+        <Battle Name="ZONE_3|Tournament_ECLIPSEMODE|" Locked="0" Hidden="1" ReplayCount="0" RandomRuleSeed="1536908588" RandomGroupSeed="1536908711" />
+        <Battle Name="ZONE_3|Challenge_ECLIPSEMODE|" Locked="0" Hidden="1" ReplayCount="0" RandomRuleSeed="3899455154" RandomGroupSeed="3899455277" />
+        <Battle Name="ZONE_3|BOSS_BUTCHER_ECLIPSEMODE|" Locked="0" Hidden="1" ReplayCount="0" />
+        <Battle Name="ZONE_4|Tournament_ECLIPSEMODE|" Locked="0" Hidden="1" ReplayCount="0" RandomRuleSeed="1536908588" RandomGroupSeed="1536908711" />
+        <Battle Name="ZONE_4|Challenge_ECLIPSEMODE|" Locked="0" Hidden="1" ReplayCount="0" RandomRuleSeed="3899512454" RandomGroupSeed="3899512577" />
+        <Battle Name="ZONE_4|BOSS_WASP_ECLIPSEMODE|" Locked="0" Hidden="1" ReplayCount="0" />
+        <Battle Name="ZONE_5|Tournament_ECLIPSEMODE|" Locked="0" Hidden="1" ReplayCount="0" RandomRuleSeed="1536908588" RandomGroupSeed="1536908711" />
+        <Battle Name="ZONE_5|Challenge_ECLIPSEMODE|" Locked="0" Hidden="1" ReplayCount="0" RandomRuleSeed="3899577894" RandomGroupSeed="3899578017" />
+        <Battle Name="ZONE_5|BOSS_HUNTRESS_ECLIPSEMODE|" Locked="0" Hidden="1" ReplayCount="0" />
+        <Battle Name="ZONE_6|Tournament_ECLIPSEMODE|" Locked="0" Hidden="1" ReplayCount="0" RandomRuleSeed="1536908588" RandomGroupSeed="1536908711" />
+        <Battle Name="ZONE_6|Challenge_ECLIPSEMODE|" Locked="0" Hidden="1" ReplayCount="0" RandomRuleSeed="3899675304" RandomGroupSeed="3899675427" />
+        <Battle Name="ZONE_6|BOSS_SAMURAI_ECLIPSEMODE|" Locked="0" Hidden="1" ReplayCount="0" />
+        <Battle Name="ZONE_6|FINAL_BATTLE|" Locked="0" Hidden="1" ReplayCount="0" />
+        <Battle Name="ZONE_6|FINAL_BATTLE_ECLIPSEMODE|" Locked="0" Hidden="0" ReplayCount="0" />
+        <Battle Name="ZONE_RAID|RAIDBOSS_LAMB|" Locked="0" Hidden="0" ReplayCount="0" EndTime="1774483200" />
+        <Battle Name="ZONE_RAID3|BOSS_11|" Locked="0" Hidden="1" ReplayCount="0" />
+        <Battle Name="ZONE_RAID3|BOSS_12|" Locked="0" Hidden="1" ReplayCount="0" />
+        <Battle Name="ZONE_RAID3|BOSS_13|" Locked="0" Hidden="1" ReplayCount="0" />
+        <Battle Name="ZONE_RAID3|BOSS_14|" Locked="0" Hidden="1" ReplayCount="0" />
+        <Battle Name="ZONE_7|BOSS_TITAN_LOCKED|" Locked="0" Hidden="0" ReplayCount="0" />
+        <Battle Name="ZONE_3|BOSS_BUTCHER_LOCKED|" Locked="0" Hidden="0" ReplayCount="0" />
+        <Battle Name="ZONE_4|BOSS_WASP_LOCKED|" Locked="0" Hidden="0" ReplayCount="0" />
+        <Battle Name="ZONE_5|BOSS_HUNTRESS_LOCKED|" Locked="0" Hidden="0" ReplayCount="0" />
+        <Battle Name="ZONE_6|BOSS_SAMURAI_LOCKED|" Locked="0" Hidden="0" ReplayCount="0" />
+        <Battle Name="ZONE_1|BOSS_LYNX_INTERMISSION|" Locked="0" Hidden="0" ReplayCount="0" />
+        <Battle Name="ZONE_1|Duel_INTERMISSION|" Locked="0" Hidden="0" ReplayCount="0" />
+        <Battle Name="ZONE_1|Survival_INTERMISSION|" Locked="0" Hidden="0" ReplayCount="0" />
+        <Battle Name="ZONE_1|Tournament_INTERMISSION|" Locked="0" Hidden="0" ReplayCount="0" />
+        <Battle Name="ZONE_2|BOSS_HERMIT_INTERMISSION|" Locked="0" Hidden="0" ReplayCount="0" />
+        <Battle Name="ZONE_2|Duel_INTERMISSION|" Locked="0" Hidden="0" ReplayCount="0" />
+        <Battle Name="ZONE_2|Survival_INTERMISSION|" Locked="0" Hidden="0" ReplayCount="0" />
+        <Battle Name="ZONE_2|Challenge_INTERMISSION|" Locked="0" Hidden="0" ReplayCount="0" />
+        <Battle Name="ZONE_2|Tournament_INTERMISSION|" Locked="0" Hidden="0" ReplayCount="0" />
       </Battles>
-      <Currencies ForgeMaterial1="999999999" ForgeMaterial2="999999999" ForgeMaterial3="999999999" AscensionTicket="0" />
+      <Currencies ForgeMaterial1="1000010035" ForgeMaterial2="1000002901" ForgeMaterial3="1000000204" AscensionTicket="0" />
       <Resistances Resistance_2="0" />
       <SessionSettings>
         <VideoAdCounterCurrent Value="0" />
@@ -818,20 +833,20 @@
         <VideoAdCounter Value="10" />
         <QualityCondition Value="HIGH" />
         <ResetAscensionOnStart Value="" />
-        <Disciple Value="0" />
+        <Disciple Value="1" />
         <ShowDojoDisciple Value="1" />
-        <ControllerScale Value="False" />
+        <ControllerScale Value="True" />
         <AdvertRate Value="0" />
         <AdvertRaidsRate Value="0" />
         <AdvertBannersRaidsRate Value="0" />
       </SessionSettings>
       <Counters>
-        <Counter Name="HeadHitRound" CurrentValue="27" />
+        <Counter Name="HeadHitRound" CurrentValue="28" />
         <Counter Name="Unarmed" CurrentValue="1" />
-        <Counter Name="PerfectRound" CurrentValue="38" />
-        <Counter Name="FirstHits" CurrentValue="72" />
-        <Counter Name="Combo3" CurrentValue="10" />
-        <Counter Name="FastRounds" CurrentValue="50" />
+        <Counter Name="PerfectRound" CurrentValue="39" />
+        <Counter Name="FirstHits" CurrentValue="78" />
+        <Counter Name="Combo3" CurrentValue="17" />
+        <Counter Name="FastRounds" CurrentValue="51" />
         <Counter Name="BodyguardsWin" CurrentValue="6" />
         <Counter Name="Disarm" CurrentValue="6" />
         <Counter Name="HardWin" CurrentValue="1" />
@@ -845,6 +860,7 @@
         <Counter Name="BossWin" CurrentValue="1" />
         <Counter Name="BossNoLose" CurrentValue="1" />
         <Counter Name="BossWin1" CurrentValue="1" />
+        <Counter Name="PerfectRoundEclipse" CurrentValue="1" />
       </Counters>
       <Achievements>
         <Achievement Name="achievement_name_perfect_1" ObtainedReward="false" />
@@ -865,12 +881,14 @@
       <RepostAchievements>
       </RepostAchievements>
       <Timers>
-        <Timer Name="OfferTimer_DailyOffer_3_4" EndTime="1774220948" />
+        <Timer Name="OfferTimer_DailyOffer_3_4" EndTime="1774224079" />
+        <Timer Name="Timer_RaidBeginnerPack" EndTime="1774246626" />
       </Timers>
       <MapButtons>
-        <Button Name="EclipseModeOn" Image="UI/Atlases/MiscSprites.sun_icon" Type="Image" X="-876" Y="432" AnchorMinX="1" AnchorMinY="0.5" AnchorMaxX="1" AnchorMaxY="0.5" PivotX="0.5" PivotY="0.5" ImagePath="Textures/buttons/map/" Timer="0" ShowType="Story" Control="Y" />
-        <Button Name="LocalDaily" Image="UI/Atlases/RaidMap.fire" Type="Image" X="-876" Y="245" AnchorMinX="1" AnchorMinY="0.5" AnchorMaxX="1" AnchorMaxY="0.5" PivotX="0.5" PivotY="0.5" ImagePath="Textures/buttons/map/" Timer="0" ShowType="Story" ImageScale="1.1" />
         <Button Name="DailyOffer_3_4" Image="DailyOffer_Sales_sale" Type="Image" ImagePath="Textures/buttons/map/" Timer="OfferTimer_DailyOffer_3_4" ShowType="Story" Item="DailyOffer_3_4" />
+        <Button Name="LocalDaily" Image="UI/Atlases/RaidMap.fire" Type="Image" X="-876" Y="245" AnchorMinX="1" AnchorMinY="0.5" AnchorMaxX="1" AnchorMaxY="0.5" PivotX="0.5" PivotY="0.5" ImagePath="Textures/buttons/map/" Timer="0" ShowType="Story" ImageScale="1.1" />
+        <Button Name="Button_RaidBeginnerPack" Image="starter_pack_raid_swords_Sales_sale" Type="Image" ImagePath="Textures/buttons/map/" Timer="Timer_RaidBeginnerPack" ShowType="Both" />
+        <Button Name="EclipseModeOff" Image="UI/Atlases/MiscSprites.eclipse" Type="Image" X="-876" Y="432" AnchorMinX="1" AnchorMinY="0.5" AnchorMaxX="1" AnchorMaxY="0.5" PivotX="0.5" PivotY="0.5" ImagePath="Textures/buttons/map/" Timer="0" ShowType="Story" Control="Y" />
       </MapButtons>
       <Payments>
         <Completed>
@@ -1099,20 +1117,20 @@
         </MetadataCache>
       </Payments>
       <Fights>
-        <Fight ID="-1" IDS="ZONE_1|Duel|1" CompletedCount="0" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="0" RandomizeTimeLeft="1774148720" Level="0" RandomGroupSeed="1442348544" RandomRuleSeed="1640465280" />
-        <Fight ID="-1" IDS="ZONE_1|Duel_INTERMISSION|1" CompletedCount="0" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="0" RandomizeTimeLeft="1774148720" Level="0" RandomGroupSeed="839936192" RandomRuleSeed="1910951424" />
-        <Fight ID="-1" IDS="ZONE_2|Duel|1" CompletedCount="0" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="0" RandomizeTimeLeft="1774148720" Level="0" RandomGroupSeed="757605376" RandomRuleSeed="1159316992" />
-        <Fight ID="-1" IDS="ZONE_2|Duel_INTERMISSION|1" CompletedCount="0" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="0" RandomizeTimeLeft="1774148720" Level="0" RandomGroupSeed="2119588096" RandomRuleSeed="577492096" />
-        <Fight ID="-1" IDS="ZONE_3|Duel|1" CompletedCount="0" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="0" RandomizeTimeLeft="1774148720" Level="0" RandomGroupSeed="2100601344" RandomRuleSeed="1396519680" />
-        <Fight ID="-1" IDS="ZONE_3|Duel_INTERMISSION|1" CompletedCount="0" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="0" RandomizeTimeLeft="1774148720" Level="0" RandomGroupSeed="954022016" RandomRuleSeed="1309113344" />
-        <Fight ID="-1" IDS="ZONE_4|Duel|1" CompletedCount="0" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="0" RandomizeTimeLeft="1774148720" Level="0" RandomGroupSeed="276222752" RandomRuleSeed="392672704" />
-        <Fight ID="-1" IDS="ZONE_4|Duel_INTERMISSION|1" CompletedCount="0" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="0" RandomizeTimeLeft="1774148720" Level="0" RandomGroupSeed="1213782912" RandomRuleSeed="882087936" />
-        <Fight ID="-1" IDS="ZONE_5|Duel|1" CompletedCount="0" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="0" RandomizeTimeLeft="1774148720" Level="0" RandomGroupSeed="1131452032" RandomRuleSeed="130453512" />
-        <Fight ID="-1" IDS="ZONE_5|Duel_INTERMISSION|1" CompletedCount="0" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="0" RandomizeTimeLeft="1774148720" Level="0" RandomGroupSeed="878075328" RandomRuleSeed="290256384" />
-        <Fight ID="-1" IDS="ZONE_6|Duel|1" CompletedCount="0" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="0" RandomizeTimeLeft="1774148720" Level="0" RandomGroupSeed="1030134464" RandomRuleSeed="197846672" />
-        <Fight ID="-1" IDS="ZONE_6|Duel_INTERMISSION|1" CompletedCount="0" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="0" RandomizeTimeLeft="1774148720" Level="0" RandomGroupSeed="650069440" RandomRuleSeed="1511292800" />
-        <Fight ID="-1" IDS="ZONE_7|Duel|1" CompletedCount="0" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="0" RandomizeTimeLeft="1774148720" Level="0" RandomGroupSeed="1289895296" RandomRuleSeed="1918304896" />
-        <Fight ID="-1" IDS="ZONE_7|C3_Duel|1" CompletedCount="0" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="0" RandomizeTimeLeft="1774148720" Level="0" RandomGroupSeed="738784384" RandomRuleSeed="1995704704" />
+        <Fight ID="-1" IDS="ZONE_1|Duel|1" CompletedCount="0" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="0" RandomizeTimeLeft="1774160540" Level="0" RandomGroupSeed="2035900160" RandomRuleSeed="1179911424" />
+        <Fight ID="-1" IDS="ZONE_1|Duel_INTERMISSION|1" CompletedCount="0" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="0" RandomizeTimeLeft="1774160540" Level="0" RandomGroupSeed="1731479296" RandomRuleSeed="650206784" />
+        <Fight ID="-1" IDS="ZONE_2|Duel|1" CompletedCount="0" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="0" RandomizeTimeLeft="1774160540" Level="0" RandomGroupSeed="1269083392" RandomRuleSeed="1212018432" />
+        <Fight ID="-1" IDS="ZONE_2|Duel_INTERMISSION|1" CompletedCount="0" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="0" RandomizeTimeLeft="1774160540" Level="0" RandomGroupSeed="1528844160" RandomRuleSeed="784993088" />
+        <Fight ID="-1" IDS="ZONE_3|Duel|1" CompletedCount="0" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="0" RandomizeTimeLeft="1774160540" Level="0" RandomGroupSeed="236589824" RandomRuleSeed="522773888" />
+        <Fight ID="-1" IDS="ZONE_3|Duel_INTERMISSION|1" CompletedCount="0" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="0" RandomizeTimeLeft="1774160540" Level="0" RandomGroupSeed="2029379200" RandomRuleSeed="749969920" />
+        <Fight ID="-1" IDS="ZONE_4|Duel|1" CompletedCount="0" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="0" RandomizeTimeLeft="1774160540" Level="0" RandomGroupSeed="502734816" RandomRuleSeed="1976009728" />
+        <Fight ID="-1" IDS="ZONE_4|Duel_INTERMISSION|1" CompletedCount="0" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="0" RandomizeTimeLeft="1774160540" Level="0" RandomGroupSeed="420403968" RandomRuleSeed="1224375296" />
+        <Fight ID="-1" IDS="ZONE_5|Duel|1" CompletedCount="0" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="0" RandomizeTimeLeft="1774160540" Level="0" RandomGroupSeed="870197312" RandomRuleSeed="1214368640" />
+        <Fight ID="-1" IDS="ZONE_5|Duel_INTERMISSION|1" CompletedCount="0" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="0" RandomizeTimeLeft="1774160540" Level="0" RandomGroupSeed="787866496" RandomRuleSeed="462734208" />
+        <Fight ID="-1" IDS="ZONE_6|Duel|1" CompletedCount="0" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="0" RandomizeTimeLeft="1774160540" Level="0" RandomGroupSeed="1833128320" RandomRuleSeed="617533760" />
+        <Fight ID="-1" IDS="ZONE_6|Duel_INTERMISSION|1" CompletedCount="0" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="0" RandomizeTimeLeft="1774160540" Level="0" RandomGroupSeed="433172224" RandomRuleSeed="689930240" />
+        <Fight ID="-1" IDS="ZONE_7|Duel|1" CompletedCount="0" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="0" RandomizeTimeLeft="1774160540" Level="0" RandomGroupSeed="287497184" RandomRuleSeed="515117440" />
+        <Fight ID="-1" IDS="ZONE_7|C3_Duel|1" CompletedCount="0" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="0" RandomizeTimeLeft="1774160540" Level="0" RandomGroupSeed="566244736" RandomRuleSeed="1416548096" />
         <Fight ID="-1" IDS="Punchbag|Training|1" CompletedCount="0" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="0" RandomizeTimeLeft="0" Level="0" />
         <Fight ID="-1" IDS="Punchbag|Bosses|1" CompletedCount="1" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1659188695" RandomizeTimeLeft="0" Level="1" />
         <Fight ID="-1" IDS="ZONE_1|BOSS_LYNX|1" CompletedCount="1" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1659188853" RandomizeTimeLeft="0" Level="1" />
@@ -1310,12 +1328,12 @@
         <Fight ID="-1" IDS="ZONE_4|Challenge|22" CompletedCount="1" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1668453009" RandomizeTimeLeft="0" Level="8" />
         <Fight ID="-1" IDS="ZONE_4|Challenge|23" CompletedCount="1" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1668453051" RandomizeTimeLeft="0" Level="8" />
         <Fight ID="-1" IDS="ZONE_4|Challenge|24" CompletedCount="1" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1668804794" RandomizeTimeLeft="0" Level="0" />
-        <Fight ID="-1" IDS="ZONE_5|BOSS_WIDOW|1" CompletedCount="1" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1659188853" RandomizeTimeLeft="0" Level="1" />
-        <Fight ID="-1" IDS="ZONE_5|BOSS_WIDOW|2" CompletedCount="1" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1659190313" RandomizeTimeLeft="0" Level="52" />
-        <Fight ID="-1" IDS="ZONE_5|BOSS_WIDOW|3" CompletedCount="1" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1659190384" RandomizeTimeLeft="0" Level="52" />
-        <Fight ID="-1" IDS="ZONE_5|BOSS_WIDOW|4" CompletedCount="1" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1659188853" RandomizeTimeLeft="0" Level="1" />
-        <Fight ID="-1" IDS="ZONE_5|BOSS_WIDOW|5" CompletedCount="1" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1659190313" RandomizeTimeLeft="0" Level="52" />
-        <Fight ID="-1" IDS="ZONE_5|BOSS_WIDOW|6" CompletedCount="1" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1659190384" RandomizeTimeLeft="0" Level="52" />
+        <Fight ID="-1" IDS="ZONE_5|BOSS_HUNTRESS|1" CompletedCount="1" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1659188853" RandomizeTimeLeft="0" Level="1" />
+        <Fight ID="-1" IDS="ZONE_5|BOSS_HUNTRESS|2" CompletedCount="1" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1659190313" RandomizeTimeLeft="0" Level="52" />
+        <Fight ID="-1" IDS="ZONE_5|BOSS_HUNTRESS|3" CompletedCount="1" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1659190384" RandomizeTimeLeft="0" Level="52" />
+        <Fight ID="-1" IDS="ZONE_5|BOSS_HUNTRESS|4" CompletedCount="1" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1659188853" RandomizeTimeLeft="0" Level="1" />
+        <Fight ID="-1" IDS="ZONE_5|BOSS_HUNTRESS|5" CompletedCount="1" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1659190313" RandomizeTimeLeft="0" Level="52" />
+        <Fight ID="-1" IDS="ZONE_5|BOSS_HUNTRESS|6" CompletedCount="1" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1659190384" RandomizeTimeLeft="0" Level="52" />
         <Fight ID="-1" IDS="ZONE_5|Tournament|1" CompletedCount="1" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1668452691" RandomizeTimeLeft="0" Level="7" />
         <Fight ID="-1" IDS="ZONE_5|Tournament|2" CompletedCount="1" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1668452734" RandomizeTimeLeft="0" Level="7" />
         <Fight ID="-1" IDS="ZONE_5|Tournament|3" CompletedCount="1" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1668452888" RandomizeTimeLeft="0" Level="8" />
@@ -1364,12 +1382,12 @@
         <Fight ID="-1" IDS="ZONE_5|Challenge|22" CompletedCount="1" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1668453009" RandomizeTimeLeft="0" Level="8" />
         <Fight ID="-1" IDS="ZONE_5|Challenge|23" CompletedCount="1" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1668453051" RandomizeTimeLeft="0" Level="8" />
         <Fight ID="-1" IDS="ZONE_5|Challenge|24" CompletedCount="1" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1668804794" RandomizeTimeLeft="0" Level="0" />
-        <Fight ID="-1" IDS="ZONE_6|BOSS_SHOGUN|1" CompletedCount="1" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1659188853" RandomizeTimeLeft="0" Level="1" />
-        <Fight ID="-1" IDS="ZONE_6|BOSS_SHOGUN|2" CompletedCount="1" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1659190313" RandomizeTimeLeft="0" Level="52" />
-        <Fight ID="-1" IDS="ZONE_6|BOSS_SHOGUN|3" CompletedCount="1" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1659190384" RandomizeTimeLeft="0" Level="52" />
-        <Fight ID="-1" IDS="ZONE_6|BOSS_SHOGUN|4" CompletedCount="1" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1659188853" RandomizeTimeLeft="0" Level="1" />
-        <Fight ID="-1" IDS="ZONE_6|BOSS_SHOGUN|5" CompletedCount="1" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1659190313" RandomizeTimeLeft="0" Level="52" />
-        <Fight ID="-1" IDS="ZONE_6|BOSS_SHOGUN|6" CompletedCount="1" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1659190384" RandomizeTimeLeft="0" Level="52" />
+        <Fight ID="-1" IDS="ZONE_6|BOSS_SAMURAI|1" CompletedCount="1" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1659188853" RandomizeTimeLeft="0" Level="1" />
+        <Fight ID="-1" IDS="ZONE_6|BOSS_SAMURAI|2" CompletedCount="1" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1659190313" RandomizeTimeLeft="0" Level="52" />
+        <Fight ID="-1" IDS="ZONE_6|BOSS_SAMURAI|3" CompletedCount="1" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1659190384" RandomizeTimeLeft="0" Level="52" />
+        <Fight ID="-1" IDS="ZONE_6|BOSS_SAMURAI|4" CompletedCount="1" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1659188853" RandomizeTimeLeft="0" Level="1" />
+        <Fight ID="-1" IDS="ZONE_6|BOSS_SAMURAI|5" CompletedCount="1" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1659190313" RandomizeTimeLeft="0" Level="52" />
+        <Fight ID="-1" IDS="ZONE_6|BOSS_SAMURAI|6" CompletedCount="1" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1659190384" RandomizeTimeLeft="0" Level="52" />
         <Fight ID="-1" IDS="ZONE_6|Tournament|1" CompletedCount="1" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1668452691" RandomizeTimeLeft="0" Level="7" />
         <Fight ID="-1" IDS="ZONE_6|Tournament|2" CompletedCount="1" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1668452734" RandomizeTimeLeft="0" Level="7" />
         <Fight ID="-1" IDS="ZONE_6|Tournament|3" CompletedCount="1" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1668452888" RandomizeTimeLeft="0" Level="8" />
@@ -1418,49 +1436,12 @@
         <Fight ID="-1" IDS="ZONE_6|Challenge|22" CompletedCount="1" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1668453009" RandomizeTimeLeft="0" Level="8" />
         <Fight ID="-1" IDS="ZONE_6|Challenge|23" CompletedCount="1" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1668453051" RandomizeTimeLeft="0" Level="8" />
         <Fight ID="-1" IDS="ZONE_6|Challenge|24" CompletedCount="1" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1668804794" RandomizeTimeLeft="0" Level="0" />
+        <Fight ID="-1" IDS="ZONE_6|FINAL_BATTLE|1" CompletedCount="1" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1668804794" RandomizeTimeLeft="0" Level="0" />
+        <Fight ID="-1" IDS="ZONE_1|BOSS_LYNX_INTERMISSION|1" CompletedCount="1" LossCount="0" EclipseCompletedCount="1" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1774160315" RandomizeTimeLeft="0" Level="52" />
+        <Fight ID="-1" IDS="ZONE_1|Tournament_INTERMISSION|1" CompletedCount="1" LossCount="0" EclipseCompletedCount="1" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1774160764" RandomizeTimeLeft="0" Level="52" />
       </Fights>
       <Quests>
         <Quests>
-          <Quest Name="EventDateVars" FileName="quests.xml">
-            <QuestParameters ScreenIndex="4" ChekPointIndex="0">
-              <FightResult Name="" />
-              <RaidResult Name="" />
-              <Fight Name="" />
-              <LevelUp Value="0" />
-              <PowerAmount Value="0" />
-              <FightAvgFPS Value="0" />
-            </QuestParameters>
-          </Quest>
-          <Quest Name="EventDateVarsForHW20" FileName="quest_extensions/raid_quests.xml">
-            <QuestParameters ScreenIndex="4" ChekPointIndex="0">
-              <FightResult Name="" />
-              <RaidResult Name="" />
-              <Fight Name="" />
-              <LevelUp Value="0" />
-              <PowerAmount Value="0" />
-              <FightAvgFPS Value="0" />
-            </QuestParameters>
-          </Quest>
-          <Quest Name="SetBackVersionCheck" FileName="quests.xml">
-            <QuestParameters ScreenIndex="4" ChekPointIndex="0">
-              <FightResult Name="" />
-              <RaidResult Name="" />
-              <Fight Name="" />
-              <LevelUp Value="0" />
-              <PowerAmount Value="0" />
-              <FightAvgFPS Value="0" />
-            </QuestParameters>
-          </Quest>
-          <Quest Name="DownloadPacksStart" FileName="quest_extensions/packs.xml">
-            <QuestParameters ScreenIndex="5" ChekPointIndex="0">
-              <FightResult Name="" />
-              <RaidResult Name="" />
-              <Fight Name="" />
-              <LevelUp Value="0" />
-              <PowerAmount Value="0" />
-              <FightAvgFPS Value="0" />
-            </QuestParameters>
-          </Quest>
         </Quests>
         <Variables>
           <Variable Name="GDPROnStartAccepted" Value="1" />
@@ -1472,27 +1453,27 @@
           <Variable Name="TmpPacks02" Value="0" />
           <Variable Name="lang_FirstLaunch_Shown" Value="1" />
           <Variable Name="TimeSet" Value="1" />
-          <Variable Name="LastRatingOfferTime" Value="1668450263" />
+          <Variable Name="LastRatingOfferTime" Value="1774160542" />
           <Variable Name="SurvivalsInARowCount" Value="0" />
           <Variable Name="BestAcquiredWeaponLevel" Value="530" />
           <Variable Name="Ambush1400" Value="1" />
           <Variable Name="globZoneToCheck" Value="ZONE_2" />
-          <Variable Name="CurrentZone" Value="ZONE_2" />
-          <Variable Name="Avatar_Notification" Value="character_may_1_small" />
-          <Variable Name="Avatar_Assistant_1" Value="character_may_1" />
-          <Variable Name="Avatar_Assistant_2" Value="character_may_2" />
-          <Variable Name="Avatar_Assistant_3" Value="character_may_3" />
-          <Variable Name="Avatar_Assistant_4" Value="character_may_4" />
-          <Variable Name="Avatar_Assistant_5" Value="character_may_5" />
+          <Variable Name="CurrentZone" Value="ZONE_IM" />
+          <Variable Name="Avatar_Notification" Value="character_thief_small" />
+          <Variable Name="Avatar_Assistant_1" Value="character_thief" />
+          <Variable Name="Avatar_Assistant_2" Value="character_thief" />
+          <Variable Name="Avatar_Assistant_3" Value="character_thief" />
+          <Variable Name="Avatar_Assistant_4" Value="character_thief" />
+          <Variable Name="Avatar_Assistant_5" Value="character_thief" />
           <Variable Name="Avatar_Assistant_6" Value="character_sensei" />
-          <Variable Name="Title_Assistant" Value="characterMay" />
+          <Variable Name="Title_Assistant" Value="characterThief" />
           <Variable Name="Title_Assistant_2" Value="characterSensei" />
-          <Variable Name="promo_FirstPayment_Image" Value="pile_coins" />
+          <Variable Name="promo_FirstPayment_Image" Value="pile_coins_platinum" />
           <Variable Name="promo_Multiplier" Value="1.3" />
           <Variable Name="NoDiscountsControlGroupRoll" Value="60" />
           <Variable Name="ChallengeUnlockCount" Value="0" />
           <Variable Name="DuelUnlockCount" Value="0" />
-          <Variable Name="StrangerTriggerLevel" Value="10" />
+          <Variable Name="StrangerTriggerLevel" Value="40" />
           <Variable Name="langCurrent" Value="eng" />
           <Variable Name="FirstSuperItemFlag" Value="1" />
           <Variable Name="BestAcquiredHelmLevel" Value="5200" />
@@ -1545,7 +1526,7 @@
           <Variable Name="UpdateTo2'22'5'0Mark" Value="1" />
           <Variable Name="UpdateTo2'23'0'0Mark" Value="1" />
           <Variable Name="SurvivalRestartLimitPerFight" Value="1" />
-          <Variable Name="SurvivalRestartTimerValue" Value="5" />
+          <Variable Name="SurvivalRestartTimerValue" Value="10" />
           <Variable Name="MiniEventEnd" Value=" 1774483200" />
           <Variable Name="EventEnd" Value="1771891200" />
           <Variable Name="NotEnoughCurrencyColor" Value="#9b1c07" />
@@ -1558,7 +1539,7 @@
           <Variable Name="RaidAfterLoginStory" Value="1" />
           <Variable Name="RaidShopTutor" Value="1" />
           <Variable Name="RaidJuniorLottery" Value="1" />
-          <Variable Name="SuperEnchantmentActive" Value="0" />
+          <Variable Name="SuperEnchantmentActive" Value="1" />
           <Variable Name="RaidTutorialCompleted" Value="1" />
           <Variable Name="TmpPackDialogState01" Value="Ended" />
           <Variable Name="SurvivalUnlock" Value="1" />
@@ -1607,7 +1588,7 @@
           <Variable Name="SurvivalsInAZoneCount" Value="0" />
           <Variable Name="Zone1Guard4Greetings" Value="1" />
           <Variable Name="Zone1Guard5Greetings" Value="1" />
-          <Variable Name="GoToRaidsNotify" Value="10" />
+          <Variable Name="GoToRaidsNotify" Value="2" />
           <Variable Name="Zone1LynxGreetings" Value="1" />
           <Variable Name="promo_FirstPayment_Flag" Value="0" />
           <Variable Name="ShopDownloadOffer" Value="0" />
@@ -1618,7 +1599,7 @@
           <Variable Name="OfferLossCounter" Value="0" />
           <Variable Name="RangedAvailableTag" Value="1" />
           <Variable Name="EclipseModeTutorialFight" Value="ZONE_2|Tournament|" />
-          <Variable Name="LastBattleLost" Value="0" />
+          <Variable Name="LastBattleLost" Value="1" />
           <Variable Name="EclipseModeEnabled" Value="1" />
           <Variable Name="EclipseButtonDiscovered" Value="1" />
           <Variable Name="InEclipseMode" Value="0" />
@@ -1704,8 +1685,45 @@
           <Variable Name="WeeklyOffer_42_Enabled" Value="1" />
           <Variable Name="WeeklyOffer_42_Start" Value="1771981200" />
           <Variable Name="WeeklyOffer_42_End" Value="1772582100" />
-          <Variable Name="ChallengesLeftReminderFlag" Value="1" />
+          <Variable Name="EclipseModeTutorialPart2" Value="1" />
+          <Variable Name="EclipseModeReplayTutorialBattle" Value="0" />
           <Variable Name="BPStatSent" Value="1" />
+          <Variable Name="EclipseModeReplayTutorial" Value="1" />
+          <Variable Name="EasyFightCount" Value="8" />
+          <Variable Name="EventActive" Value="0" />
+          <Variable Name="EventFightWin" Value="0" />
+          <Variable Name="EventFightLose" Value="0" />
+          <Variable Name="EventBossIndex" Value="0" />
+          <Variable Name="EventDojoIndex" Value="0" />
+          <Variable Name="EventBoss" Value="0" />
+          <Variable Name="EventAnnounce" Value="0" />
+          <Variable Name="EventGift" Value="0" />
+          <Variable Name="EventStory" Value="0" />
+          <Variable Name="EventFightEnter" Value="0" />
+          <Variable Name="ChangeToEventDojo" Value="0" />
+          <Variable Name="ShopAdvChest" Value="0" />
+          <Variable Name="GiftAfterFirstPurchase" Value="0" />
+          <Variable Name="EventBossKeyInfo" Value="0" />
+          <Variable Name="CurrentMiniEventIndex" Value="260317" />
+          <Variable Name="CurrentEventIndex" Value="260217" />
+          <Variable Name="MiniEventActive" Value="1" />
+          <Variable Name="EraseMeAfterEvent" Value="0" />
+          <Variable Name="MiniEventFightWin" Value="0" />
+          <Variable Name="MiniEventFightLose" Value="0" />
+          <Variable Name="MiniEventAnnounce" Value="1" />
+          <Variable Name="MiniEventStory" Value="1" />
+          <Variable Name="MiniEventFightEnter" Value="0" />
+          <Variable Name="EraseMeAsWell" Value="1" />
+          <Variable Name="MiniEventKeyIcon" Value="RitualVulcanKey.big" />
+          <Variable Name="MiniEventBossBattleName" Value="ZONE_RAID|RAIDBOSS_LAMB|" />
+          <Variable Name="MiniEventBossName" Value="RAIDBOSS_LAMB" />
+          <Variable Name="LastRaidFloor" Value="0" />
+          <Variable Name="DoNotShowDuelNotify" Value="1" />
+          <Variable Name="CurrentDuel" Value="ZONE_2|Duel_INTERMISSION|1" />
+          <Variable Name="ImLynxGreetings" Value="1" />
+          <Variable Name="ForgeNotifiedSimple" Value="1" />
+          <Variable Name="ForgeNotifiedMedium" Value="1" />
+          <Variable Name="ForgeNotifiedComplex" Value="1" />
         </Variables>
       </Quests>
       <FBData id="" />
@@ -1716,11 +1734,11 @@
         <Lock Name="CLANS" />
         <Lock Name="MODELS" />
         <Lock Name="ZONE_2" />
-        <Lock Name="ZONE_5_DONATE" />
         <Lock Name="ZONE_1" />
         <Lock Name="ZONE_3" />
         <Lock Name="ZONE_4" />
         <Lock Name="ZONE_5" />
+        <Lock Name="ZONE_6" />
         <Lock Name="VERSIONAL_CONFIGS" />
         <Lock Name="VERSIONAL_ASSETS" />
         <Lock Name="FUNGUS_SET" />
@@ -1766,10 +1784,12 @@
         <Lock Name="WEEKLY_OFFER_40_OLD_KING_25" />
         <Lock Name="WEEKLY_OFFER_41_FLAVOR_OF_DEMISE_25" />
         <Lock Name="WEEKLY_OFFER_42_CLAW_OF_WISDOM_26" />
-        <Lock Name="RAID_EVENT" />
         <Lock Name="RITUAL_HUNGER" />
         <Lock Name="RITUAL_VULCAN" />
         <Lock Name="RITUAL_FUNGUS" />
+        <Lock Name="RAID_EVENT" />
+        <Lock Name="ZONE_IM" />
+        <Lock Name="IM_DONATE_2" />
       </Shop>
       <Perks>
         <Perk Level="2" Name="PERK_DOUBLE_SWEEP" />
@@ -1859,17 +1879,9 @@
           <Item Name="Casket_Gems" />
           <Item Name="Bag_Gems" />
           <Item Name="Chest_Gems" />
-          <Item Name="Pile_Coins_5" />
-          <Item Name="Bag_Coins_5" />
-          <Item Name="Chest_Coins_5" />
+          <Item Name="Pile_Coins_Platinum_2" />
+          <Item Name="Bag_Coins_Platinum_2" />
           <Item Name="Unlimited_Energy" />
-          <Item Name="drop_name_blueseal" />
-          <Item Name="drop_name_redseal" />
-          <Item Name="drop_name_greenseal" />
-          <Item Name="drop_name_purpleseal" />
-          <Item Name="HELM_LOBSTER" />
-          <Item Name="HELM_VIKING" />
-          <Item Name="HELM_BLOOD" />
         </Items>
       </CounterItems>
     </Warrior>
@@ -1878,5 +1890,5 @@
     <Version Value="2.41.9" />
     <DataVersion Value="2.9.0.0" />
   </Versions>
-  <GameLaunchIndex Value="16" />
+  <GameLaunchIndex Value="17" />
 </Root>
