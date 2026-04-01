@@ -30,9 +30,9 @@ Step 6: Launch the game and wait until you see Sensei's scorn greeting. Quit the
 
 Step 7: You will likely need to connect your phone to a computer to continue with the file editing. Navigate to Android>data>com.nekki.shadowfight>files>userdata and delete users.xml and users_backup.xml. Then copy the users.xml provided here into the userdata folder.
 
-Step 7: Enable your Internet and launch the game. After launching the game, you will be prompted to update the game through Google Play. Start the update.
+Step 8: Enable your Internet and launch the game. After launching the game, you will be prompted to update the game through Google Play. Start the update.
 
-Step 8: In the userdata folder, delete users.xml.hash. After you delete the file, rename the users_backup.xml.hash file to users.xml.hash.
+Step 9: In the userdata folder, delete users.xml.hash. After you delete the file, rename the users_backup.xml.hash file to users.xml.hash.
 
 You are done! Wait for the update to finish, then launch the game. You will be prompted to download about 500MB worth of files for the game, and when it's done, the game should already have been completed and have infinite money/gems and the rest of the features listed above!
 
